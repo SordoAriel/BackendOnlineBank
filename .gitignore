@@ -1,0 +1,21 @@
+# Node.js
+/node_modules
+package-lock.json
+
+# Archivos de configuración
+.env
+
+# Archivos de registro y salida
+/logs
+*.log
+
+# Archivos de respaldo y temporales
+*.bak
+*.tmp
+
+# Dependencias específicas del sistema operativo
+.DS_Store
+Thumbs.db
+
+#variables de entorno
+.env
